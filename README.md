@@ -1,14 +1,22 @@
 - 👋 Hi, I’m @hqcho
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 harrisonkyucho@gmail.com
 
 <!---
 hqcho/hqcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Portfolio
 
 Please view my [LinkedIn](https://www.linkedin.com/in/harrison-cho-74279a220/)
+
+# Data Science & Analytics Portfolio
+# Portfolio
+This repository contains projects and visualizations created from the Data Science & Analytics program with [University of Wisconsin-Madison].
+
+## SQL
+
+## Statistics
+
+## Visual Communications
+
 
