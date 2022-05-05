@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @hqcho
 
 - 📫 harrisonkyucho@gmail.com
 
